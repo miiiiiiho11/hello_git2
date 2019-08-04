@@ -26,5 +26,5 @@ http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_i
 'Numpyを使ったフーリエ変換'のコード
 
 # 実行の様子
-
+![](digital_gif.gif)
 
